@@ -1,0 +1,215 @@
+{
+  "nav": {
+    "about": "À propos",
+    "services": "Services",
+    "works": "Travaux",
+    "blogs": "Blogs",
+    "contact": "Contact"
+  },
+  "sidebar": {
+    "name": "Chevereșan Raul-Gabriel",
+    "position": "Ingénieur Matériel/Électrique chez",
+    "company": "Diamond Apps AG",
+    "downloadResume": "Télécharger le CV",
+    "aboutMe": "À propos de moi",
+    "description": "Je suis ingénieur en matériel et logiciel embarqué basé en Suisse. Je travaille avec des systèmes embarqués, des projets IoT et de l'électronique de puissance. J'ai étudié l'électronique à l'Université Politehnica de Timișoara et je détiens un permis de séjour de type B."
+  },
+  "about": {
+    "title": "Qui suis-je ?",
+    "description": "Je travaille avec des cartes embarquées, des capteurs, des radios et de l'électronique de puissance. J'écris du firmware en C et C++, je conçois des circuits, j'effectue des tests et je résous les problèmes rapidement. J'ai développé des convertisseurs buck automobiles et des contrôles DSP en travaillant chez Hella Forvia. Maintenant, je travaille chez Diamond Apps AG où j'automatise des systèmes, je construis des contrôles robotiques et je livre des solutions de bout en bout. J'aime travailler avec du matériel réel, améliorer les conceptions et transformer des idées en produits fonctionnels. Je me concentre sur le développement embarqué, l'automatisation et l'ingénierie propre et efficace."
+  },
+  "skills": {
+    "title": "Compétences",
+    "programmingLanguages": "Langages de Programmation",
+    "advanced": "Avancé :",
+    "intermediate": "Intermédiaire :",
+    "basic": "De base :",
+    "tools": "Outils",
+    "technical": "Technique",
+    "softSkills": "Compétences interpersonnelles",
+    "spokenLanguages": "Langues Parlées",
+    "languages": {
+      "c": "C",
+      "cpp": "C++",
+      "python": "Python",
+      "matlab": "MATLAB",
+      "java": "Java",
+      "htmlcss": "HTML/CSS",
+      "sql": "SQL",
+      "bash": "Bash",
+      "gradle": "Gradle"
+    },
+    "toolsList": {
+      "git": "Git",
+      "linux": "Linux",
+      "fusion360": "Autodesk Fusion 360",
+      "bambuLab": "Bambu Lab",
+      "ccs": "Code Composer Studio"
+    },
+    "technicalList": {
+      "embedded": "Prog. Embarqué",
+      "pcb": "Conception PCB",
+      "prototyping": "Prototypage",
+      "automotive": "Automobile"
+    },
+    "softSkillsList": {
+      "problemSolving": "Résolution de problèmes",
+      "communication": "Communication",
+      "adaptability": "Adaptabilité",
+      "leadership": "Leadership",
+      "creativity": "Créativité"
+    },
+    "spokenLanguagesList": {
+      "romanian": "Roumain",
+      "english": "Anglais",
+      "german": "Allemand",
+      "native": "Natif",
+      "advancedLevel": "Avancé",
+      "elementary": "Élémentaire"
+    }
+  },
+  "services": {
+    "pcbDesign": {
+      "title": "Conception PCB",
+      "description": "Créer des layouts PCB propres pour prototypes ou produits. Routage stable, placement intelligent des composants, prêt pour l'assemblage."
+    },
+    "embeddedSoftware": {
+      "title": "Logiciel Embarqué C",
+      "description": "Développer du firmware pour microcontrôleurs et capteurs. Contrôle fiable, code efficace, résultats matériels réels."
+    },
+    "circuitTesting": {
+      "title": "Test de Circuits Électroniques",
+      "description": "Effectuer des vérifications de signal, déboguer des défauts, mesurer les performances, améliorer la stabilité par des tests."
+    },
+    "iotIntegration": {
+      "title": "Intégration de Systèmes IoT",
+      "description": "Connecter le matériel au cloud ou aux applications locales via BLE ou WiFi. Contrôle et surveillance en temps réel."
+    },
+    "modeling3d": {
+      "title": "Modélisation 3D",
+      "description": "Modéliser des boîtiers et des pièces mécaniques dans Fusion 360. Fichiers prêts à imprimer pour l'intégration matérielle."
+    },
+    "prototyping": {
+      "title": "Prototypage Matériel",
+      "description": "Assembler électronique, firmware et mécanique en un prototype fonctionnel rapidement avec des étapes de validation claires."
+    }
+  },
+  "contact": {
+    "title": "Entrer en contact",
+    "phone": "Téléphone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "location": "Localisation",
+    "callMe": "Appelez-moi",
+    "openWhatsapp": "Ouvrir WhatsApp",
+    "sendEmail": "Envoyer un email",
+    "whatsappMessage": "Envoyez-moi un message sur WhatsApp",
+    "locationValue": "Suisse",
+    "connectWithMe": "Connectez-vous avec moi",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "blog": {
+    "title": "Blog à venir",
+    "description": "Je travaille actuellement sur le partage d'analyses techniques, d'études de cas de projets et de solutions d'ingénierie. Cet espace présentera des articles sur les systèmes embarqués, la conception matérielle et les défis pratiques d'ingénierie.",
+    "stayTuned": "Restez à l'écoute pour le contenu à venir."
+  },
+  "portfolio": {
+    "viewDetails": "Voir les détails",
+    "backToProjects": "Retour aux projets",
+    "overview": "Aperçu",
+    "roleResponsibilities": "Rôle & Responsabilités",
+    "technologiesUsed": "Technologies utilisées",
+    "challenges": "Défis techniques clés & Résolutions",
+    "codeImplementation": "Implémentation du code",
+    "situation": "Situation",
+    "action": "Action",
+    "result": "Résultat",
+    "outcome": "Résultat",
+    "viewOnGithub": "Voir sur GitHub",
+    "viewProject": "Voir le projet",
+    "project0": {
+      "title": "Réalisation d'applications sur un système sans fil EFR32 sur puce",
+      "shortDescription": "Projet de thèse de licence axé sur le développement de logiciels embarqués et la communication sans fil utilisant les plateformes Silicon Labs EFR32.",
+      "fullDescription": "Développement, configuration et évaluation de plusieurs applications embarquées sur les plateformes sans fil Silicon Labs EFR32. Validation de l'interaction des capteurs, de la communication Bluetooth et des performances radio à l'aide de matériel réel et de mesures. Thèse de licence développée à l'Université Politehnica de Timișoara avec un accent sur le développement de logiciels embarqués et la communication sans fil utilisant le matériel Silicon Labs.",
+      "figureCaption": "Fig. 1 - Plateforme de développement sans fil Silicon Labs EFR32 avec kit de développement xG24 et configuration de carte radio",
+      "roleResponsibilities": "Conçu un firmware pour lire les entrées de boutons-poussoirs et contrôler les états des LED RGB. Lu la température ambiante du capteur embarqué et mappé les plages aux états de couleur des LED. Implémenté des services et caractéristiques BLE pour diffuser les données du capteur inertiel vers un smartphone en temps réel. Configuré les périphériques IMU et collecté les données d'accélération à des taux d'échantillonnage fixes. Établi une liaison sans fil entre les cartes xG24 et EFR32xG21, mesuré les valeurs RSSI et évalué le taux d'erreur de paquets pour différentes tailles de charge utile.",
+      "technologies": ["Silicon Labs xG24 Dev Kit", "EFR32xG21 Radio Board", "Simplicity Studio", "Gecko SDK", "Programmation C", "Bluetooth Low Energy", "Capteurs IMU", "Communication sans fil", "Mesure RSSI", "Systèmes embarqués"],
+      "challenges": "La logique embarquée en temps discret nécessitait la conception de machines à états prévisibles pour les boutons, LED et capteurs, résolue par une séparation claire des tâches et un contrôle temporel. L'intégration de la pile BLE exigeait la compréhension de l'architecture et de la configuration BLE de Silicon Labs, résolue par une exploration détaillée du SDK et des tests incrémentaux. La précision des mesures sans fil nécessitait des mesures RSSI et d'erreur de paquets reproductibles, résolue par des scénarios de test contrôlés et des paramètres radio fixes. L'intégration système combinait capteurs, BLE et logique radio dans un flux de firmware unique, résolue par une structure de code modulaire et une validation par étapes.",
+      "challengeDetail": {
+        "title": "Intégration de la pile BLE et validation des performances sans fil",
+        "situation": "Le projet nécessitait la compréhension de l'architecture BLE de Silicon Labs, la mise en œuvre d'un streaming de capteurs en temps réel stable et l'obtention de mesures quantitatives des performances radio dans différentes configurations.",
+        "action": "Exploré la documentation SDK en détail, construit des cas de test incrémentaux pour la communication BLE, établi des scénarios de test contrôlés avec des paramètres radio fixes et validé chaque sous-système indépendamment avant l'intégration complète.",
+        "result": "Communication BLE stable obtenue avec streaming de données de capteurs en direct vers smartphone. Résultats quantitatifs de RSSI et de taux d'erreur de paquets obtenus qui ont validé le comportement du système sans fil sous différentes tailles de charge utile et modes de transmission."
+      },
+      "outcome": "Applications embarquées fonctionnelles exécutées sur du matériel réel avec communication BLE stable et données de capteurs en direct. Résultats quantitatifs de performances radio basés sur des mesures RSSI et de taux d'erreur de paquets. Ce projet démontre de solides compétences en développement C embarqué, systèmes sans fil, communication BLE, intégration de capteurs et évaluation des performances sur des plateformes de développement professionnelles. Il représente un projet de systèmes embarqués complet de bout en bout, de l'interaction matérielle de bas niveau à l'analyse de données sans fil."
+    },
+    "project1": {
+      "title": "Convertisseur Buck haute efficacité pour gestion de puissance automobile",
+      "shortDescription": "Conception PCB complète pour convertisseur buck automobile avec filtrage EMI, architecture de puissance multi-étages et circuits de protection.",
+      "fullDescription": "Concevoir un PCB de convertisseur buck à haute efficacité pour applications automobiles basé sur le DSP TI LAUNCHXL-F28379D. Créer une disposition de carte incluant filtrage, étage de commutation, blocs de détection, chemin de pilote et circuits de protection. L'objectif était de développer une conception matérielle complète à partir des exigences fonctionnelles et avec un guidage externe minimal.",
+      "roleResponsibilities": "Conçu la disposition PCB pour l'étage de puissance complet. Implémenté le placement des modules et le routage pour le filtrage EMI, le bloc de commutation, le module de pilote et la détection de courant. Ajouté la protection contre l'inversion de polarité, le filtre d'entrée et les points de mesure pour les rails 48V et 12V. Préparé la documentation pour chaque bloc fonctionnel.",
+      "technologies": ["Conception PCB", "TI LAUNCHXL-F28379D", "Topologie Buck", "Filtrage EMI", "Détection de courant", "Puissance automobile", "Protection contre inversion de polarité", "Routage de puissance", "Clearance & Creepage"],
+      "challenges": "Nouvelle conception sans disposition PCB de référence. Commencé uniquement avec les spécifications, aucune carte précédente disponible. Guidage minimal intentionnel. L'équipe n'a aidé qu'à 10 à 15 pour cent pour défier la vitesse d'apprentissage et l'indépendance. Structure matérielle multi-modules. Nécessitait de comprendre et de relier : Filtre CEM 48V, Élément de commutation 48V, Mesure de courant 48V, Filtre d'entrée, Étage de commutation, Module de pilote, Mesure de courant 12V, Protection contre inversion de polarité. Sélection des composants et stratégie de routage. Recherché les fiches techniques, les schémas de référence et les règles de disposition automobile.",
+      "challengeDetail": {
+        "title": "Conception matérielle complète presque indépendamment",
+        "situation": "Reçu uniquement des instructions de haut niveau, pas de tutoriel détaillé. L'équipe a intentionnellement offert une aide limitée pour tester la capacité de résolution de problèmes.",
+        "action": "Étudié les conceptions de référence. Analysé la documentation DSP. Planifié la disposition des modules. Routé les retours de puissance et de masse. Vérifié la clearance et la creepage pour les pistes 48V. Terminé la carte avec un placement de composants calculé.",
+        "result": "Conception PCB terminée contenant tous les blocs fonctionnels requis. Achevé avec succès avec seulement 10 à 15 pour cent de guidage."
+      },
+      "outcome": "Livré une disposition PCB complète de convertisseur buck. Appris à structurer du matériel d'électronique de puissance multi-étages, suivre les considérations EMI, router les chemins de puissance et travailler de manière indépendante sous faible supervision."
+    },
+    "project2": {
+      "title": "Système de surveillance météo en temps réel (ESP32 + DHT22)",
+      "shortDescription": "Système de surveillance météo IoT utilisant un microcontrôleur ESP32 et un capteur DHT22 avec interface web en temps réel via Wi-Fi.",
+      "fullDescription": "Développement d'un système de surveillance météo utilisant un microcontrôleur ESP32 et un capteur de température et d'humidité DHT22. Le système collecte les lectures des capteurs et les affiche sur une interface web dynamique via Wi-Fi en temps réel. L'accent était mis sur l'intégration de capteurs embarqués, la configuration Wi-Fi et l'hébergement d'une page web réactive avec actualisation automatique des données.",
+      "roleResponsibilities": "Interfacé le capteur DHT22 avec l'ESP32. Configuré la connectivité Wi-Fi pour la communication réseau. Mis en place un serveur web asynchrone utilisant la bibliothèque ESPAsyncWebServer. Créé une interface web affichant la température et l'humidité actualisées. Implémenté la gestion des erreurs pour maintenir la cohérence et la fiabilité des données.",
+      "technologies": ["ESP32", "Capteur DHT22", "C/C++", "Arduino IDE", "ESPAsyncWebServer", "Wi-Fi", "HTML/CSS", "JavaScript", "Serveur web embarqué", "IoT"],
+      "challenges": "L'intégration et le timing du capteur ont assuré des lectures fiables du DHT22 en utilisant un timing et un câblage corrects, géré les erreurs de lecture occasionnelles du capteur par des vérifications robustes avant l'affichage. La configuration Wi-Fi et la stabilité de connexion ont scanné et connecté au SSID réseau configuré, géré la logique de reconnexion, permis aux clients d'accéder aux données en temps réel en servant des pages web via Wi-Fi. La conception du serveur web asynchrone a utilisé la bibliothèque ESPAsyncWebServer pour gérer plusieurs requêtes client sans blocage, développé des gestionnaires de routes web qui retournent les lectures de capteurs actualisées au format HTML. L'affichage en temps réel sans rafraîchissement a construit du HTML qui réutilise automatiquement JavaScript ou meta refresh pour mettre à jour les valeurs des capteurs.",
+      "challengeDetail": {
+        "title": "Afficher les lectures de capteurs en direct sur une page web hébergée",
+        "situation": "Le système nécessitait une interface web affichant la température et l'humidité actualisées sans que les clients aient à recharger manuellement.",
+        "action": "Configuré des routes asynchrones dans le serveur web ESP32, intégré des espaces réservés pour les valeurs des capteurs et activé l'actualisation automatique sur la page.",
+        "result": "Les clients connectés au serveur Wi-Fi ESP32 voient la température et l'humidité actuelles se mettre à jour automatiquement en temps quasi réel."
+      },
+      "outcome": "Livré un système de surveillance météo ESP32 fonctionnel avec connectivité Wi-Fi, intégration de capteurs et interface web dynamique. Ce projet met en évidence le code C/C++ embarqué pour microcontrôleurs, la communication Wi-Fi et le développement web embarqué.",
+      "githubLink": "https://github.com/SlickAF31/MeteoStation/tree/main/ESP32/MeteoStation"
+    },
+    "project3": {
+      "title": "Conception et simulation d'un convertisseur Cuk isolé",
+      "shortDescription": "Conception et simulation complète MATLAB/Simulink d'un convertisseur Cuk isolé avec dimensionnement du transformateur et validation analytique.",
+      "fullDescription": "Conception et simulation d'un convertisseur Cuk isolé dans MATLAB et Simulink. Calcul du rapport de transformation du transformateur, dimensionnement des composants passifs (condensateurs et inductances) et détermination de la plage de rapport cyclique pour le convertisseur. Construction d'un modèle de simulation complet et vérification du comportement transitoire et en régime permanent par des tracés analytiques et une analyse des formes d'onde.",
+      "figureCaption": "Fig. 1 - Modèle de simulation du convertisseur Cuk isolé dans MATLAB Simulink",
+      "roleResponsibilities": "Calcul du rapport de transformation du transformateur. Dimensionnement des condensateurs et inductances basé sur les exigences d'ondulation et de puissance. Construction du modèle de convertisseur dans Simulink. Exécution de multiples simulations pour valider le comportement. Export des formes d'onde pour analyse. Écriture de scripts MATLAB pour le dimensionnement des composants et les tracés de conversion. Documentation de tous les résultats et décisions de conception.",
+      "technologies": ["MATLAB", "Simulink", "Électronique de puissance", "Conception de transformateur", "Analyse CCM", "Dimensionnement des composants", "Analyse des formes d'onde"],
+      "challenges": "Le dimensionnement des composants nécessitait le calcul de C1a≈654nF, C1b≈343nF, C2≈190μF, L1>2,34mH, L2>0,206mH basé sur les objectifs d'ondulation et de puissance, puis la confirmation du fonctionnement en conduction continue. La conception du transformateur et du rapport cyclique a dérivé n=0,25 à partir du rapport de tension, calculé Dmax≈0,588 à Vgmax et D≈0,68 à Vgmin avec une fréquence de commutation de 80kHz. Les simulations initiales produisaient des pics de démarrage élevés et un établissement lent nécessitant un réglage des composants. Le flux de calcul MATLAB a traduit les formules manuelles en code et généré des courbes de conversion pour plusieurs valeurs de n pour validation contre Simulink.",
+      "codeSection": "// Script MATLAB de dimensionnement des composants\nformat long;\nVg_min = 4; Vg_max = 9;\nVo = 5; n = 0.25;\nDmax = 0.588; D = 0.68;\nf = 80e3; R = Vo/5;\n\nC1a=(n^2*((Dmax)/(1-Dmax))*Vg_max)/(R*0.05*Vo*f);\nC1b=(n^2*((D)/(1-D))*Vg_min)/(R*0.05*Vo*f);\nC2=(Vo)/(R*0.05*f);\n\nL1=(R*(1-D))/(2*f);\nL2=(R*D)/(2*f);\n\n// Tracé du rapport de conversion\nD=0:0.01:0.99;\nn=[0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 0.98 0.99];\nfor k=1:length(n)\n    M=-(D./(1-D)).*(1./n(k));\n    plot(D,M)\nend",
+      "challengeDetail": {
+        "title": "Faire correspondre les valeurs théoriques avec le comportement de simulation stable",
+        "situation": "Les simulations initiales produisaient des pics de démarrage élevés et un établissement lent qui ne correspondaient pas aux attentes théoriques.",
+        "action": "Ajusté itérativement les valeurs des composants et le rapport cyclique. Vérifié les formes d'onde pour L1, L2, C1, C2 et les nœuds du transformateur. Exécuté plusieurs simulations jusqu'à ce que l'ondulation atteigne des limites stables et corresponde aux prédictions analytiques.",
+        "result": "Réponse transitoire propre avec établissement fluide. Le courant et la tension de sortie correspondaient à la tendance théorique. Les tracés de conversion confirmaient le comportement attendu sur toute la plage de rapport cyclique."
+      },
+      "outcome": "Modèle de convertisseur Cuk fonctionnel avec dimensionnement correct des composants, comportement de simulation validé, code MATLAB analytique pour l'automatisation de la conception et résultats de formes d'onde complets. Acquisition d'une compréhension plus approfondie des mécanismes de transfert d'énergie du convertisseur, des principes de fonctionnement du transformateur et des exigences de stabilité en mode de conduction continue (CCM)."
+    },
+    "project4": {
+      "title": "Système de contrôle en boucle fermée pour convertisseur Buck",
+      "shortDescription": "Système de contrôle en C embarqué pour convertisseur buck automobile avec commutation PWM, rétroaction ADC et contrôle prédictif utilisant la récurrence d'état futur.",
+      "fullDescription": "Conception d'un système de contrôle en boucle fermée pour un convertisseur buck utilisant le C embarqué, la commutation PWM et la rétroaction ADC pour obtenir une régulation de tension stable sous charges variables. Construction du banc d'essai complet autour d'un microcontrôleur DSP et d'un PCB automobile utilisé à l'origine dans un système pneumatique pour camions Volvo. Intégration de la logique de contrôle, réglage de la réponse du régulateur en utilisant les méthodes Ziegler-Nichols et facteur K, et validation du système par mesures réelles. Implémentation du contrôle prédictif utilisant la logique de récurrence d'état futur pour une réponse système améliorée.",
+      "roleResponsibilities": "Développé le firmware en C. Intégré la rétroaction ADC et le pilotage PWM. Réglé les gains de boucle de contrôle à l'aide des méthodes de Ziegler-Nichols et du facteur K. Lu la documentation des modules existants. Construit et débogué la configuration matérielle. Mesuré les signaux de sortie avec oscilloscope et Analog Discovery 2. Cartographié la structure du PCB dans Fusion 360. Évalué la stabilité par des tests répétés.",
+      "figureImage": "project-04-fig1.jpg",
+      "figureCaption": "Fig. 1 - Le PCB pneumatique automobile avec 6 modules de convertisseur buck utilisés pour les tests et le développement",
+      "technologies": ["Embedded C", "Microcontrôleur DSP", "Contrôle PWM", "Rétroaction ADC", "Filtrage IIR", "Contrôle PID", "Réglage Ziegler-Nichols", "Oscilloscope", "Analog Discovery 2", "Fusion 360"],
+      "challenges": "La stabilité de la boucle de contrôle présentait le défi principal car la sortie oscillait sous variation de charge. Les valeurs PID ont été testées de manière approfondie jusqu'à ce que la réponse se stabilise proprement, les méthodes Ziegler-Nichols et facteur K améliorant significativement la vitesse de réponse et l'amortissement. L'intégration ADC nécessitait la lecture de la documentation du module existant et la vérification du mappage des registres, puis l'ajout de filtrage et de mises à jour de mémoire pour des lectures stables. Le PCB automobile complexe contenait six modules de convertisseur avec des chemins IC séparés nécessitant un traçage manuel des signaux et une documentation de disposition. La configuration matérielle exigeait une connexion soigneuse du MCU DSP à la carte avec oscilloscope et Analog Discovery 2 pour vérification des formes d'onde. La logique de récurrence du filtre nécessitait les valeurs futur, futur+1, futur+2 et futur+3, nécessitant une compréhension approfondie de la récurrence CalcD1F dans Filter.h où la mémoire _m1 représente s[k] et _out représente y[k].",
+      "codeSection": "// Formule de récurrence dans CalcD1F\n// y[k] = b0 * x[k] + s[k]\n// s[k+1] = b1 * x[k] - a1 * y[k]\n\ncoef->_out = (coef->_b0 * val) + coef->_m1;\ncoef->_m1 = (coef->_b1 * val) - (coef->_out * coef->_a1);\n\n// x[k] = échantillon d'entrée\n// y[k] = sortie\n// _m1 = mémoire pour prochaine itération",
+      "challengeDetail": {
+        "title": "Implémentation de la récurrence pour contrôle prédictif",
+        "situation": "À l'étape finale, j'ai dû étendre le régulateur en boucle fermée en utilisant des états futurs. Le système nécessitait la lecture et la mise à jour de plusieurs pas en avant tout en maintenant un timing stable. Comprendre _m1 comme stockage d'état suivant et _out comme sortie actuelle était essentiel.",
+        "action": "Reconstruit la logique de récurrence sur papier. Testé la théorie avec des simulations MATLAB. Suivi le flux de signal dans le code. Capturé les formes d'onde de sortie à l'oscilloscope. Ajusté le timing jusqu'à ce que la réponse corresponde au comportement du modèle.",
+        "result": "Le contrôle prédictif fonctionnait correctement en utilisant les valeurs d'état futur. La sortie se stabilisait sans oscillation. Les lectures ADC étaient filtrées et la réponse du convertisseur restait cohérente à travers les changements de charge."
+      },
+      "outcome": "Une implémentation complète de contrôle de puissance en boucle fermée construite du firmware aux tests finaux. Acquis de l'expérience en logique de contrôle embarqué, filtrage IIR, mesure d'électronique de puissance, stratégies de réglage, débogage sous contraintes matérielles et compréhension de l'architecture de carte. Ce projet a renforcé les compétences en développement de firmware C, gestion de rétroaction ADC et contrôle de convertisseur réel.",
+      "githubLink": "https://github.com/SlickAF31/DSP-Work"
+    }
+  }
+}

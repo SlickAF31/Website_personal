@@ -1,0 +1,215 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "works": "Works",
+    "blogs": "Blogs",
+    "contact": "Contact"
+  },
+  "sidebar": {
+    "name": "Chevereșan Raul-Gabriel",
+    "position": "Hardware/Electrical Engineer at",
+    "company": "Diamond Apps AG",
+    "downloadResume": "Download Resume",
+    "aboutMe": "About Me",
+    "description": "I am a hardware and embedded software engineer based in Switzerland. I work with embedded systems, IoT projects, and power electronics. I studied Electronics at Politehnica University Timișoara and hold a Residential Permit Type B."
+  },
+  "about": {
+    "title": "Who am I?",
+    "description": "I work with embedded boards, sensors, radios, and power electronics. I write firmware in C and C++, design circuits, run tests, and fix problems fast. I developed automotive buck converters and DSP control while working at Hella Forvia. Now I work at Diamond Apps AG where I automate systems, build robotic control, and deliver end to end solutions. I enjoy working with real hardware, improving designs, and turning ideas into working products. I focus on embedded development, automation, and clean, efficient engineering."
+  },
+  "skills": {
+    "title": "Skills",
+    "programmingLanguages": "Programming Languages",
+    "advanced": "Advanced:",
+    "intermediate": "Intermediate:",
+    "basic": "Basic:",
+    "tools": "Tools",
+    "technical": "Technical",
+    "softSkills": "Soft-skills",
+    "spokenLanguages": "Spoken Languages",
+    "languages": {
+      "c": "C",
+      "cpp": "C++",
+      "python": "Python",
+      "matlab": "MATLAB",
+      "java": "Java",
+      "htmlcss": "HTML/CSS",
+      "sql": "SQL",
+      "bash": "Bash",
+      "gradle": "Gradle"
+    },
+    "toolsList": {
+      "git": "Git",
+      "linux": "Linux",
+      "fusion360": "Autodesk Fusion 360",
+      "bambuLab": "Bambu Lab",
+      "ccs": "Code Composer Studio"
+    },
+    "technicalList": {
+      "embedded": "Embedded Prog.",
+      "pcb": "PCB Design",
+      "prototyping": "Prototyping",
+      "automotive": "Automotive"
+    },
+    "softSkillsList": {
+      "problemSolving": "Problem-solving",
+      "communication": "Communication",
+      "adaptability": "Adaptability",
+      "leadership": "Leadership",
+      "creativity": "Creativity"
+    },
+    "spokenLanguagesList": {
+      "romanian": "Romanian",
+      "english": "English",
+      "german": "German",
+      "native": "Native",
+      "advancedLevel": "Advanced",
+      "elementary": "Elementary"
+    }
+  },
+  "services": {
+    "pcbDesign": {
+      "title": "PCB Design",
+      "description": "Create clean PCB layouts for prototypes or products. Stable routing, smart component placement, ready for assembly."
+    },
+    "embeddedSoftware": {
+      "title": "Embedded C Software",
+      "description": "Build firmware for microcontrollers and sensors. Reliable control, efficient code, real hardware results."
+    },
+    "circuitTesting": {
+      "title": "Electronic Circuit Testing",
+      "description": "Run signal checks, debug faults, measure performance, improve stability through testing."
+    },
+    "iotIntegration": {
+      "title": "IoT System Integration",
+      "description": "Connect hardware to the cloud or local apps using BLE or WiFi. Real time control and monitoring."
+    },
+    "modeling3d": {
+      "title": "3D Modeling",
+      "description": "Model enclosures and mechanical parts in Fusion 360. Print ready files for hardware integration."
+    },
+    "prototyping": {
+      "title": "Hardware Prototyping",
+      "description": "Assemble electronics, firmware, and mechanics into a functional prototype fast with clear validation steps."
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "location": "Location",
+    "callMe": "Call me",
+    "openWhatsapp": "Open WhatsApp",
+    "sendEmail": "Send email",
+    "whatsappMessage": "Message me on WhatsApp",
+    "locationValue": "Switzerland",
+    "connectWithMe": "Connect with me",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "blog": {
+    "title": "Blog Coming Soon",
+    "description": "I'm currently working on sharing technical insights, project case studies, and engineering solutions. This space will feature articles on embedded systems, hardware design, and practical engineering challenges.",
+    "stayTuned": "Stay tuned for upcoming content."
+  },
+  "portfolio": {
+    "viewDetails": "View Details",
+    "backToProjects": "Back to Projects",
+    "overview": "Overview",
+    "roleResponsibilities": "Role & Responsibilities",
+    "technologiesUsed": "Technologies Used",
+    "challenges": "Key Technical Challenges & Resolutions",
+    "codeImplementation": "Code Implementation",
+    "situation": "Situation",
+    "action": "Action",
+    "result": "Result",
+    "outcome": "Outcome",
+    "viewOnGithub": "View on GitHub",
+    "viewProject": "View Project",
+    "project0": {
+      "title": "Realization of Applications on an EFR32 Wireless System on Chip",
+      "shortDescription": "Bachelor thesis project focused on embedded software development and wireless communication using Silicon Labs EFR32 platforms.",
+      "fullDescription": "Developed, configured, and evaluated multiple embedded applications on Silicon Labs EFR32 wireless platforms. Validated sensor interaction, Bluetooth communication, and radio performance using real hardware and measurements. Bachelor thesis developed at Politehnica University of Timișoara with focus on embedded software development and wireless communication using Silicon Labs hardware.",
+      "figureCaption": "Fig. 1 - Silicon Labs EFR32 wireless development platform with xG24 Dev Kit and radio board setup",
+      "roleResponsibilities": "Designed firmware to read push button inputs and control RGB LED states. Read ambient temperature from on-board sensor and mapped ranges to LED color states. Implemented BLE services and characteristics to stream inertial sensor data to smartphone in real time. Configured IMU peripherals and collected acceleration data at fixed sampling rates. Established wireless link between xG24 and EFR32xG21 boards, measured RSSI values and evaluated packet error rate for different payload sizes.",
+      "technologies": ["Silicon Labs xG24 Dev Kit", "EFR32xG21 Radio Board", "Simplicity Studio", "Gecko SDK", "C Programming", "Bluetooth Low Energy", "IMU Sensors", "Wireless Communication", "RSSI Measurement", "Embedded Systems"],
+      "challenges": "Discrete time embedded logic required designing predictable state machines for buttons, LEDs, and sensors, solved through clear task separation and timing control. BLE stack integration demanded understanding Silicon Labs BLE architecture and configuration, solved by detailed SDK exploration and incremental testing. Wireless measurement accuracy needed repeatable RSSI and packet error measurements, solved by controlled test scenarios and fixed radio parameters. System integration combined sensors, BLE, and radio logic into one firmware flow, solved by modular code structure and staged validation.",
+      "challengeDetail": {
+        "title": "BLE Stack Integration and Wireless Performance Validation",
+        "situation": "The project required understanding Silicon Labs BLE architecture, implementing stable real-time sensor streaming, and obtaining quantitative radio performance measurements across different configurations.",
+        "action": "Explored SDK documentation in detail, built incremental test cases for BLE communication, established controlled test scenarios with fixed radio parameters, and validated each subsystem independently before full integration.",
+        "result": "Achieved stable BLE communication with live sensor data streaming to smartphone. Obtained quantitative RSSI and packet error rate results that validated wireless system behavior under different payload sizes and transmission modes."
+      },
+      "outcome": "Functional embedded applications running on real hardware with stable BLE communication and live sensor data. Quantitative radio performance results based on RSSI and packet error rate measurements. This project demonstrates strong skills in embedded C development, wireless systems, BLE communication, sensor integration, and performance evaluation on professional development platforms. It represents a full end-to-end embedded systems project, from low-level hardware interaction to wireless data analysis."
+    },
+    "project1": {
+      "title": "High Efficiency Buck Converter for Automotive Power Management",
+      "shortDescription": "Complete PCB design for automotive buck converter with EMI filtering, multi-stage power architecture, and protection circuits.",
+      "fullDescription": "Design a high efficiency buck converter PCB for automotive applications based on the TI LAUNCHXL-F28379D DSP. Create a board layout including filtering, switching stage, sensing blocks, driver path and protection circuits. The goal was to develop a complete hardware design starting from functional requirements and with minimal external guidance.",
+      "roleResponsibilities": "Designed the PCB layout for the full power stage. Implemented module placement and routing for EMI filtering, switching block, driver module and current sensing. Added reverse polarity protection, input filter and measurement points for 48V and 12V rails. Prepared documentation for each functional block.",
+      "technologies": ["PCB Design", "TI LAUNCHXL-F28379D", "Buck Topology", "EMI Filtering", "Current Sensing", "Automotive Power", "Reverse Polarity Protection", "Power Routing", "Clearance & Creepage"],
+      "challenges": "New design without reference PCB layout. Started from specifications only, no previous board available. Minimal guidance on purpose. Team helped only 10 to 15 percent to challenge learning speed and independence. Multi-module hardware structure. Needed to understand and link: 48V EMC filter, Switch element 48V, Current measurement 48V, Input filter, Switching stage, Driver module, Current measurement 12V, Reverse polarity protection. Component selection and routing strategy. Researched datasheets, reference schematics and automotive layout rules.",
+      "challengeDetail": {
+        "title": "Complete Hardware Design Almost Independently",
+        "situation": "Received only high level instructions, no detailed tutorial. Team intentionally offered limited help to test problem solving ability.",
+        "action": "Studied reference designs. Analyzed DSP documentation. Planned module layout. Routed power and ground returns. Verified clearance and creepage for 48V traces. Completed board with calculated component placement.",
+        "result": "Finished PCB design that contains all required functional blocks. Completed successfully with only 10 to 15 percent guidance."
+      },
+      "outcome": "Delivered a full buck converter PCB layout. Learned how to structure multi-stage power electronics hardware, follow EMI considerations, route power paths and work independently under low supervision."
+    },
+    "project2": {
+      "title": "Real-Time Weather Monitoring System (ESP32 + DHT22)",
+      "shortDescription": "IoT weather monitoring system using ESP32 microcontroller and DHT22 sensor with real-time web interface over Wi-Fi.",
+      "fullDescription": "Developed a weather monitoring system using an ESP32 microcontroller and a DHT22 temperature and humidity sensor. The system collects sensor readings and displays them on a dynamic web interface via Wi-Fi in real time. The focus was on embedded sensor integration, Wi-Fi setup and hosting a responsive web page with auto-refreshing data.",
+      "roleResponsibilities": "Interfaced the DHT22 sensor with the ESP32. Configured Wi-Fi connectivity for network communication. Set up an asynchronous web server using the ESPAsyncWebServer library. Created a web interface that displays up-to-date temperature and humidity. Implemented error handling to keep data consistent and reliable.",
+      "technologies": ["ESP32", "DHT22 Sensor", "C/C++", "Arduino IDE", "ESPAsyncWebServer", "Wi-Fi", "HTML/CSS", "JavaScript", "Embedded Web Server", "IoT"],
+      "challenges": "Sensor integration and timing ensured reliable readings from the DHT22 using correct timing and wiring, handled occasional sensor read errors using robust checks before display. Wi-Fi setup and connection stability scanned and connected to configured network SSID, managed reconnect logic, allowed clients to access real-time data by serving web pages over Wi-Fi. Asynchronous web server design used the ESPAsyncWebServer library to handle multiple client requests without blocking, developed web route handlers that return updated sensor readings in HTML format. Real-time display without refresh built HTML that automatically reused JavaScript or meta refresh to update sensor values.",
+      "challengeDetail": {
+        "title": "Display Live Sensor Readings on a Hosted Web Page",
+        "situation": "The system needed a web interface that shows up-to-date temperature and humidity without requiring clients to manually reload.",
+        "action": "Configured asynchronous routes in the ESP32 web server, embedded placeholders for sensor values and enabled auto-refresh on the page.",
+        "result": "Clients connected to the ESP32 Wi-Fi server see the current temperature and humidity automatically update in near real time."
+      },
+      "outcome": "Delivered a working ESP32 weather monitoring system with Wi-Fi connectivity, sensor integration and a dynamic web interface. This project highlights embedded C/C++ code for microcontrollers, Wi-Fi communication and embedded web development.",
+      "githubLink": "https://github.com/SlickAF31/MeteoStation/tree/main/ESP32/MeteoStation"
+    },
+    "project3": {
+      "title": "Isolated Cuk Converter Design and Simulation",
+      "shortDescription": "Complete MATLAB/Simulink design and simulation of isolated Cuk converter with transformer sizing and analytical validation.",
+      "fullDescription": "Designed and simulated an isolated Cuk converter in MATLAB and Simulink. Calculated transformer turns ratio, sized passive components (capacitors and inductors), and determined duty cycle range for the converter. Built comprehensive simulation model and verified transient and steady-state behavior through analytical plots and waveform analysis.",
+      "figureCaption": "Fig. 1 - Isolated Cuk converter simulation model in MATLAB Simulink",
+      "roleResponsibilities": "Calculated transformer turns ratio. Sized capacitors and inductors based on ripple and power requirements. Built the converter model in Simulink. Ran multiple simulations to validate behavior. Exported waveforms for analysis. Wrote MATLAB scripts for component dimensioning and conversion plots. Documented all results and design decisions.",
+      "technologies": ["MATLAB", "Simulink", "Power Electronics", "Transformer Design", "CCM Analysis", "Component Sizing", "Waveform Analysis"],
+      "challenges": "Component sizing required calculating C1a≈654nF, C1b≈343nF, C2≈190μF, L1>2.34mH, L2>0.206mH based on ripple and power targets, then confirming continuous conduction operation. Transformer and duty cycle design derived n=0.25 from voltage ratio, computed Dmax≈0.588 at Vgmax and D≈0.68 at Vgmin with 80kHz switching frequency. Initial simulations produced high startup peaks and slow settling requiring component tuning. MATLAB calculation workflow translated hand formulas into code and generated conversion curves for multiple n values to validate against Simulink.",
+      "codeSection": "// Component Sizing MATLAB Script\nformat long;\nVg_min = 4; Vg_max = 9;\nVo = 5; n = 0.25;\nDmax = 0.588; D = 0.68;\nf = 80e3; R = Vo/5;\n\nC1a=(n^2*((Dmax)/(1-Dmax))*Vg_max)/(R*0.05*Vo*f);\nC1b=(n^2*((D)/(1-D))*Vg_min)/(R*0.05*Vo*f);\nC2=(Vo)/(R*0.05*f);\n\nL1=(R*(1-D))/(2*f);\nL2=(R*D)/(2*f);\n\n// Conversion Ratio Plot\nD=0:0.01:0.99;\nn=[0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 0.98 0.99];\nfor k=1:length(n)\n    M=-(D./(1-D)).*(1./n(k));\n    plot(D,M)\nend",
+      "challengeDetail": {
+        "title": "Match Theoretical Values with Stable Simulation Behavior",
+        "situation": "Initial simulations produced high startup peaks and slow settling that didn't match theoretical expectations.",
+        "action": "Adjusted component values and duty cycle iteratively. Checked waveforms for L1, L2, C1, C2, and transformer nodes. Ran multiple simulations until ripple reached stable limits and matched analytical predictions.",
+        "result": "Clean transient response with smooth settling. Output current and voltage matched theoretical trend. Conversion plots confirmed expected behavior across the full duty cycle range."
+      },
+      "outcome": "Working Cuk converter model with correct component sizing, validated simulation behavior, analytical MATLAB code for design automation, and comprehensive waveform results. Gained stronger understanding of converter energy transfer mechanisms, transformer operation principles, and continuous conduction mode (CCM) stability requirements."
+    },
+    "project4": {
+      "title": "Closed Loop Buck Converter Control System",
+      "shortDescription": "Embedded C control system for automotive buck converter with PWM switching, ADC feedback, and predictive control using future-state recurrence.",
+      "fullDescription": "Designed a closed loop control system for a buck converter using embedded C, PWM switching and ADC feedback to achieve stable voltage regulation under varying loads. Built the complete test setup around a DSP microcontroller and an automotive PCB originally used in a pneumatic system for Volvo trucks. Integrated control logic, tuned regulator response using Ziegler-Nichols and K factor methods, and validated the system through real measurements. Implemented predictive control using future-state recurrence logic for enhanced system response.",
+      "roleResponsibilities": "Developed firmware in C. Integrated ADC feedback and PWM drive. Tuned control loop gains using Ziegler-Nichols and K factor methods. Read documentation for existing modules. Built and debugged the hardware setup. Measured output signals with oscilloscope and Analog Discovery 2. Mapped PCB structure in Fusion 360. Evaluated stability through repeated tests.",
+      "figureImage": "project-04-fig1.jpg",
+      "figureCaption": "Fig. 1 - The automotive pneumatic PCB with 6 modules of buck converter used for testing and development",
+      "technologies": ["Embedded C", "DSP Microcontroller", "PWM Control", "ADC Feedback", "IIR Filtering", "PID Control", "Ziegler-Nichols Tuning", "Oscilloscope", "Analog Discovery 2", "Fusion 360"],
+      "challenges": "Control loop stability presented the primary challenge as output oscillated under load variation. Tested PID values extensively until response settled cleanly, with Ziegler-Nichols and K factor methods significantly improving response speed and damping. ADC integration required reading existing module documentation and verifying register mapping, then adding filtering and memory updates for stable readings. The complex automotive PCB contained six converter modules with separate IC paths requiring manual signal tracing and layout documentation. Hardware setup demanded careful connection of DSP MCU to board with oscilloscope and Analog Discovery 2 for waveform verification. The filter recurrence logic needed future, future+1, future+2 and future+3 values, requiring deep understanding of the CalcD1F recurrence in Filter.h where memory _m1 represents s[k] and _out represents y[k].",
+      "codeSection": "// Recurrence Formula Inside CalcD1F\n// y[k] = b0 * x[k] + s[k]\n// s[k+1] = b1 * x[k] - a1 * y[k]\n\ncoef->_out = (coef->_b0 * val) + coef->_m1;\ncoef->_m1 = (coef->_b1 * val) - (coef->_out * coef->_a1);\n\n// x[k] = input sample\n// y[k] = output\n// _m1 = memory for next iteration",
+      "challengeDetail": {
+        "title": "Recurrence Implementation for Predictive Control",
+        "situation": "At the final stage I had to extend the closed loop regulator using future states. The system required reading and updating multiple forward steps while keeping stable timing. Understanding _m1 as next state storage and _out as current output was essential.",
+        "action": "Reconstructed the recurrence logic on paper. Tested theory with MATLAB simulations. Tracked signal flow through code. Captured output waveforms on oscilloscope. Adjusted timing until response matched model behavior.",
+        "result": "Predictive control worked correctly using future-state values. Output settled without oscillation. ADC readings were filtered and converter response remained consistent across load changes."
+      },
+      "outcome": "A complete closed loop power control implementation built from firmware to final testing. Gained experience in embedded control logic, IIR filtering, power electronics measurement, tuning strategies, debugging under hardware constraints and understanding board architecture. This project strengthened skills in C firmware development, ADC feedback handling, and real converter control.",
+      "githubLink": "https://github.com/SlickAF31/DSP-Work"
+    }
+  }
+}

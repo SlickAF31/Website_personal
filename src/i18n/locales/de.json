@@ -1,0 +1,215 @@
+{
+  "nav": {
+    "about": "Über mich",
+    "services": "Dienstleistungen",
+    "works": "Arbeiten",
+    "blogs": "Blogs",
+    "contact": "Kontakt"
+  },
+  "sidebar": {
+    "name": "Chevereșan Raul-Gabriel",
+    "position": "Hardware/Elektrotechnik-Ingenieur bei",
+    "company": "Diamond Apps AG",
+    "downloadResume": "Lebenslauf herunterladen",
+    "aboutMe": "Über mich",
+    "description": "Ich bin ein Hardware- und eingebetteter Software-Ingenieur mit Sitz in der Schweiz. Ich arbeite mit eingebetteten Systemen, IoT-Projekten und Leistungselektronik. Ich habe Elektronik an der Politehnica Universität Timișoara studiert und besitze eine Aufenthaltsbewilligung Typ B."
+  },
+  "about": {
+    "title": "Wer bin ich?",
+    "description": "Ich arbeite mit eingebetteten Platinen, Sensoren, Funkgeräten und Leistungselektronik. Ich schreibe Firmware in C und C++, entwerfe Schaltkreise, führe Tests durch und behebe Probleme schnell. Ich habe automotive Buck-Wandler und DSP-Steuerung bei Hella Forvia entwickelt. Jetzt arbeite ich bei Diamond Apps AG, wo ich Systeme automatisiere, Robotersteuerung aufbaue und End-to-End-Lösungen liefere. Ich genieße die Arbeit mit echter Hardware, verbessere Designs und verwandle Ideen in funktionierende Produkte. Ich konzentriere mich auf eingebettete Entwicklung, Automatisierung und saubere, effiziente Technik."
+  },
+  "skills": {
+    "title": "Fähigkeiten",
+    "programmingLanguages": "Programmiersprachen",
+    "advanced": "Fortgeschritten:",
+    "intermediate": "Mittelstufe:",
+    "basic": "Grundlagen:",
+    "tools": "Werkzeuge",
+    "technical": "Technisch",
+    "softSkills": "Soft-Skills",
+    "spokenLanguages": "Gesprochene Sprachen",
+    "languages": {
+      "c": "C",
+      "cpp": "C++",
+      "python": "Python",
+      "matlab": "MATLAB",
+      "java": "Java",
+      "htmlcss": "HTML/CSS",
+      "sql": "SQL",
+      "bash": "Bash",
+      "gradle": "Gradle"
+    },
+    "toolsList": {
+      "git": "Git",
+      "linux": "Linux",
+      "fusion360": "Autodesk Fusion 360",
+      "bambuLab": "Bambu Lab",
+      "ccs": "Code Composer Studio"
+    },
+    "technicalList": {
+      "embedded": "Embedded-Prog.",
+      "pcb": "PCB-Design",
+      "prototyping": "Prototyping",
+      "automotive": "Automotive"
+    },
+    "softSkillsList": {
+      "problemSolving": "Problemlösung",
+      "communication": "Kommunikation",
+      "adaptability": "Anpassungsfähigkeit",
+      "leadership": "Führung",
+      "creativity": "Kreativität"
+    },
+    "spokenLanguagesList": {
+      "romanian": "Rumänisch",
+      "english": "Englisch",
+      "german": "Deutsch",
+      "native": "Muttersprache",
+      "advancedLevel": "Fortgeschritten",
+      "elementary": "Grundkenntnisse"
+    }
+  },
+  "services": {
+    "pcbDesign": {
+      "title": "PCB-Design",
+      "description": "Erstellen Sie saubere PCB-Layouts für Prototypen oder Produkte. Stabile Verkabelung, intelligente Komponentenplatzierung, bereit für die Montage."
+    },
+    "embeddedSoftware": {
+      "title": "Embedded C Software",
+      "description": "Entwickeln Sie Firmware für Mikrocontroller und Sensoren. Zuverlässige Steuerung, effizienter Code, echte Hardware-Ergebnisse."
+    },
+    "circuitTesting": {
+      "title": "Elektronische Schaltungsprüfung",
+      "description": "Führen Sie Signalprüfungen durch, beheben Sie Fehler, messen Sie die Leistung und verbessern Sie die Stabilität durch Tests."
+    },
+    "iotIntegration": {
+      "title": "IoT-Systemintegration",
+      "description": "Verbinden Sie Hardware mit der Cloud oder lokalen Apps über BLE oder WiFi. Echtzeitsteuerung und -überwachung."
+    },
+    "modeling3d": {
+      "title": "3D-Modellierung",
+      "description": "Modellieren Sie Gehäuse und mechanische Teile in Fusion 360. Druckfertige Dateien für die Hardware-Integration."
+    },
+    "prototyping": {
+      "title": "Hardware-Prototyping",
+      "description": "Montieren Sie Elektronik, Firmware und Mechanik schnell zu einem funktionalen Prototyp mit klaren Validierungsschritten."
+    }
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp",
+    "email": "E-Mail",
+    "location": "Standort",
+    "callMe": "Ruf mich an",
+    "openWhatsapp": "WhatsApp öffnen",
+    "sendEmail": "E-Mail senden",
+    "whatsappMessage": "Schreiben Sie mir auf WhatsApp",
+    "locationValue": "Schweiz",
+    "connectWithMe": "Verbinde dich mit mir",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "blog": {
+    "title": "Blog in Kürze verfügbar",
+    "description": "Ich arbeite derzeit daran, technische Einblicke, Projekt-Fallstudien und technische Lösungen zu teilen. Dieser Bereich wird Artikel über eingebettete Systeme, Hardware-Design und praktische technische Herausforderungen enthalten.",
+    "stayTuned": "Bleiben Sie dran für kommende Inhalte."
+  },
+  "portfolio": {
+    "viewDetails": "Details anzeigen",
+    "backToProjects": "Zurück zu Projekten",
+    "overview": "Überblick",
+    "roleResponsibilities": "Rolle & Verantwortlichkeiten",
+    "technologiesUsed": "Verwendete Technologien",
+    "challenges": "Wichtige technische Herausforderungen & Lösungen",
+    "codeImplementation": "Code-Implementierung",
+    "situation": "Situation",
+    "action": "Aktion",
+    "result": "Ergebnis",
+    "outcome": "Ergebnis",
+    "viewOnGithub": "Auf GitHub ansehen",
+    "viewProject": "Projekt ansehen",
+    "project0": {
+      "title": "Realisierung von Anwendungen auf einem EFR32 Wireless System on Chip",
+      "shortDescription": "Bachelorarbeitsprojekt mit Fokus auf eingebettete Softwareentwicklung und drahtlose Kommunikation mit Silicon Labs EFR32-Plattformen.",
+      "fullDescription": "Entwicklung, Konfiguration und Evaluierung mehrerer eingebetteter Anwendungen auf Silicon Labs EFR32-Wireless-Plattformen. Validierung von Sensorinteraktion, Bluetooth-Kommunikation und Funkleistung unter Verwendung realer Hardware und Messungen. Bachelorarbeit entwickelt an der Politehnica-Universität Timișoara mit Fokus auf eingebettete Softwareentwicklung und drahtlose Kommunikation mit Silicon Labs-Hardware.",
+      "figureCaption": "Abb. 1 - Silicon Labs EFR32 drahtlose Entwicklungsplattform mit xG24 Dev Kit und Radio-Board-Setup",
+      "roleResponsibilities": "Firmware entworfen, um Drucktasteneingaben zu lesen und RGB-LED-Zustände zu steuern. Umgebungstemperatur vom On-Board-Sensor gelesen und Bereiche auf LED-Farbzustände abgebildet. BLE-Dienste und -Eigenschaften implementiert, um Trägheitssensordaten in Echtzeit an Smartphone zu streamen. IMU-Peripheriegeräte konfiguriert und Beschleunigungsdaten mit festen Abtastraten erfasst. Drahtlose Verbindung zwischen xG24- und EFR32xG21-Boards hergestellt, RSSI-Werte gemessen und Paketfehlerrate für verschiedene Payload-Größen bewertet.",
+      "technologies": ["Silicon Labs xG24 Dev Kit", "EFR32xG21 Radio Board", "Simplicity Studio", "Gecko SDK", "C-Programmierung", "Bluetooth Low Energy", "IMU-Sensoren", "Drahtlose Kommunikation", "RSSI-Messung", "Eingebettete Systeme"],
+      "challenges": "Diskrete Zeit-Embedded-Logik erforderte das Design vorhersagbarer Zustandsautomaten für Tasten, LEDs und Sensoren, gelöst durch klare Aufgabentrennung und Zeitsteuerung. BLE-Stack-Integration erforderte Verständnis der Silicon Labs BLE-Architektur und -Konfiguration, gelöst durch detaillierte SDK-Erkundung und inkrementelle Tests. Drahtlose Messgenauigkeit benötigte wiederholbare RSSI- und Paketfehlermessungen, gelöst durch kontrollierte Testszenarien und feste Funkparameter. Systemintegration kombinierte Sensoren, BLE und Funklogik in einen Firmware-Ablauf, gelöst durch modulare Codestruktur und stufenweise Validierung.",
+      "challengeDetail": {
+        "title": "BLE-Stack-Integration und drahtlose Leistungsvalidierung",
+        "situation": "Das Projekt erforderte das Verständnis der Silicon Labs BLE-Architektur, die Implementierung stabilen Echtzeit-Sensor-Streamings und die Erlangung quantitativer Funkleistungsmessungen über verschiedene Konfigurationen hinweg.",
+        "action": "SDK-Dokumentation detailliert erkundet, inkrementelle Testfälle für BLE-Kommunikation erstellt, kontrollierte Testszenarien mit festen Funkparametern etabliert und jedes Subsystem unabhängig vor vollständiger Integration validiert.",
+        "result": "Stabile BLE-Kommunikation mit Live-Sensordaten-Streaming zum Smartphone erreicht. Quantitative RSSI- und Paketfehlerratenergebnisse erhalten, die das Verhalten des drahtlosen Systems unter verschiedenen Payload-Größen und Übertragungsmodi validierten."
+      },
+      "outcome": "Funktionale eingebettete Anwendungen auf realer Hardware mit stabiler BLE-Kommunikation und Live-Sensordaten. Quantitative Funkleistungsergebnisse basierend auf RSSI- und Paketfehlerratenmessungen. Dieses Projekt demonstriert starke Fähigkeiten in eingebetteter C-Entwicklung, drahtlosen Systemen, BLE-Kommunikation, Sensorintegration und Leistungsbewertung auf professionellen Entwicklungsplattformen. Es repräsentiert ein vollständiges End-to-End-Embedded-Systems-Projekt, von Low-Level-Hardware-Interaktion bis zur drahtlosen Datenanalyse."
+    },
+    "project1": {
+      "title": "Hocheffizienter Buck-Wandler für Automobil-Energiemanagement",
+      "shortDescription": "Komplettes PCB-Design für Automobil-Buck-Wandler mit EMI-Filterung, mehrstufiger Leistungsarchitektur und Schutzschaltungen.",
+      "fullDescription": "Entwicklung eines hocheffizienten Buck-Wandler-PCB für Automobilanwendungen basierend auf dem TI LAUNCHXL-F28379D DSP. Erstellung eines Plattenlayouts einschließlich Filterung, Schaltstufe, Sensorblöcke, Treiberpfad und Schutzschaltungen. Das Ziel war die Entwicklung eines vollständigen Hardware-Designs ausgehend von funktionalen Anforderungen und mit minimaler externer Anleitung.",
+      "roleResponsibilities": "PCB-Layout für die gesamte Leistungsstufe entworfen. Modulplatzierung und Routing für EMI-Filterung, Schaltblock, Treibermodul und Strommessung implementiert. Verpolungsschutz, Eingangsfilter und Messpunkte für 48V- und 12V-Schienen hinzugefügt. Dokumentation für jeden funktionalen Block erstellt.",
+      "technologies": ["PCB-Design", "TI LAUNCHXL-F28379D", "Buck-Topologie", "EMI-Filterung", "Strommessung", "Automotive Power", "Verpolungsschutz", "Leistungsrouting", "Clearance & Creepage"],
+      "challenges": "Neues Design ohne Referenz-PCB-Layout. Begonnen nur mit Spezifikationen, keine vorherige Platine verfügbar. Minimale Anleitung mit Absicht. Team half nur 10 bis 15 Prozent, um Lerngeschwindigkeit und Unabhängigkeit zu fordern. Mehrstufige Hardware-Struktur. Musste verstehen und verknüpfen: 48V EMV-Filter, Schaltelement 48V, Strommessung 48V, Eingangsfilter, Schaltstufe, Treibermodul, Strommessung 12V, Verpolungsschutz. Komponentenauswahl und Routing-Strategie. Recherchierte Datenblätter, Referenzschaltpläne und automotive Layout-Regeln.",
+      "challengeDetail": {
+        "title": "Komplettes Hardware-Design fast eigenständig",
+        "situation": "Nur grobe Anweisungen erhalten, kein detailliertes Tutorial. Team bot absichtlich begrenzte Hilfe, um Problemlösungsfähigkeit zu testen.",
+        "action": "Referenzdesigns studiert. DSP-Dokumentation analysiert. Modullayout geplant. Leistungs- und Masserückführungen geroutet. Clearance und Creepage für 48V-Leitungen verifiziert. Platine mit berechneter Komponentenplatzierung abgeschlossen.",
+        "result": "Fertiges PCB-Design mit allen erforderlichen funktionalen Blöcken. Erfolgreich abgeschlossen mit nur 10 bis 15 Prozent Anleitung."
+      },
+      "outcome": "Vollständiges Buck-Wandler-PCB-Layout geliefert. Gelernt, wie man mehrstufige Leistungselektronik-Hardware strukturiert, EMI-Überlegungen befolgt, Leistungspfade routet und eigenständig unter geringer Aufsicht arbeitet."
+    },
+    "project2": {
+      "title": "Echtzeit-Wetterüberwachungssystem (ESP32 + DHT22)",
+      "shortDescription": "IoT-Wetterüberwachungssystem mit ESP32-Mikrocontroller und DHT22-Sensor mit Echtzeit-Weboberfläche über Wi-Fi.",
+      "fullDescription": "Entwicklung eines Wetterüberwachungssystems mit einem ESP32-Mikrocontroller und einem DHT22-Temperatur- und Feuchtigkeitssensor. Das System erfasst Sensormesswerte und zeigt sie in Echtzeit über Wi-Fi auf einer dynamischen Weboberfläche an. Der Fokus lag auf der Integration eingebetteter Sensoren, Wi-Fi-Einrichtung und dem Hosting einer responsiven Webseite mit automatisch aktualisierenden Daten.",
+      "roleResponsibilities": "DHT22-Sensor mit ESP32 verbunden. Wi-Fi-Konnektivität für Netzwerkkommunikation konfiguriert. Asynchronen Webserver mit der ESPAsyncWebServer-Bibliothek eingerichtet. Weboberfläche erstellt, die aktuelle Temperatur und Luftfeuchtigkeit anzeigt. Fehlerbehandlung implementiert, um Datenkonsistenz und Zuverlässigkeit zu gewährleisten.",
+      "technologies": ["ESP32", "DHT22-Sensor", "C/C++", "Arduino IDE", "ESPAsyncWebServer", "Wi-Fi", "HTML/CSS", "JavaScript", "Embedded-Webserver", "IoT"],
+      "challenges": "Sensorintegration und Timing stellten zuverlässige Messwerte vom DHT22 durch korrektes Timing und Verkabelung sicher, behandelten gelegentliche Sensorlesefehler durch robuste Prüfungen vor der Anzeige. Wi-Fi-Einrichtung und Verbindungsstabilität scannten und verbanden sich mit konfigurierter Netzwerk-SSID, verwalteten Wiederverbindungslogik, ermöglichten Clients den Zugriff auf Echtzeitdaten durch Bereitstellung von Webseiten über Wi-Fi. Asynchrones Webserver-Design verwendete die ESPAsyncWebServer-Bibliothek zur Handhabung mehrerer Client-Anfragen ohne Blockierung, entwickelte Web-Route-Handler, die aktualisierte Sensormesswerte im HTML-Format zurückgeben. Echtzeitanzeige ohne Aktualisierung baute HTML auf, das automatisch JavaScript oder Meta-Refresh wiederverwendete, um Sensorwerte zu aktualisieren.",
+      "challengeDetail": {
+        "title": "Live-Sensormesswerte auf gehosteter Webseite anzeigen",
+        "situation": "Das System benötigte eine Weboberfläche, die aktuelle Temperatur und Luftfeuchtigkeit anzeigt, ohne dass Clients manuell neu laden müssen.",
+        "action": "Asynchrone Routen im ESP32-Webserver konfiguriert, Platzhalter für Sensorwerte eingebettet und automatische Aktualisierung auf der Seite aktiviert.",
+        "result": "Clients, die mit dem ESP32-Wi-Fi-Server verbunden sind, sehen die aktuelle Temperatur und Luftfeuchtigkeit, die sich nahezu in Echtzeit automatisch aktualisieren."
+      },
+      "outcome": "Funktionierendes ESP32-Wetterüberwachungssystem mit Wi-Fi-Konnektivität, Sensorintegration und dynamischer Weboberfläche geliefert. Dieses Projekt hebt eingebetteten C/C++-Code für Mikrocontroller, Wi-Fi-Kommunikation und eingebettete Webentwicklung hervor.",
+      "githubLink": "https://github.com/SlickAF31/MeteoStation/tree/main/ESP32/MeteoStation"
+    },
+    "project3": {
+      "title": "Design und Simulation eines isolierten Cuk-Wandlers",
+      "shortDescription": "Vollständiges MATLAB/Simulink-Design und Simulation eines isolierten Cuk-Wandlers mit Transformator-Dimensionierung und analytischer Validierung.",
+      "fullDescription": "Design und Simulation eines isolierten Cuk-Wandlers in MATLAB und Simulink. Berechnung des Transformator-Übersetzungsverhältnisses, Dimensionierung passiver Komponenten (Kondensatoren und Induktivitäten) und Bestimmung des Tastverhältnisbereichs für den Wandler. Aufbau eines umfassenden Simulationsmodells und Überprüfung des transienten und stationären Verhaltens durch analytische Diagramme und Wellenformanalyse.",
+      "figureCaption": "Abb. 1 - Simulationsmodell des isolierten Cuk-Wandlers in MATLAB Simulink",
+      "roleResponsibilities": "Berechnung des Transformator-Übersetzungsverhältnisses. Dimensionierung von Kondensatoren und Induktivitäten basierend auf Welligkeit und Leistungsanforderungen. Aufbau des Wandlermodells in Simulink. Durchführung mehrerer Simulationen zur Verhaltensvalidierung. Export von Wellenformen zur Analyse. Erstellung von MATLAB-Skripten für Komponentendimensionierung und Umwandlungsdiagramme. Dokumentation aller Ergebnisse und Designentscheidungen.",
+      "technologies": ["MATLAB", "Simulink", "Leistungselektronik", "Transformator-Design", "CCM-Analyse", "Komponentendimensionierung", "Wellenformanalyse"],
+      "challenges": "Die Komponentendimensionierung erforderte die Berechnung von C1a≈654nF, C1b≈343nF, C2≈190μF, L1>2,34mH, L2>0,206mH basierend auf Welligkeits- und Leistungszielen sowie die Bestätigung des kontinuierlichen Leitbetriebs. Das Transformator- und Tastverhältnis-Design leitete n=0,25 aus dem Spannungsverhältnis ab, berechnete Dmax≈0,588 bei Vgmax und D≈0,68 bei Vgmin mit 80kHz Schaltfrequenz. Erste Simulationen erzeugten hohe Anlaufspitzen und langsames Einschwingen, was Komponentenabstimmung erforderte. Der MATLAB-Berechnungsworkflow übersetzte Handformeln in Code und generierte Umwandlungskurven für mehrere n-Werte zur Validierung gegen Simulink.",
+      "codeSection": "// Komponentendimensionierung MATLAB-Skript\nformat long;\nVg_min = 4; Vg_max = 9;\nVo = 5; n = 0.25;\nDmax = 0.588; D = 0.68;\nf = 80e3; R = Vo/5;\n\nC1a=(n^2*((Dmax)/(1-Dmax))*Vg_max)/(R*0.05*Vo*f);\nC1b=(n^2*((D)/(1-D))*Vg_min)/(R*0.05*Vo*f);\nC2=(Vo)/(R*0.05*f);\n\nL1=(R*(1-D))/(2*f);\nL2=(R*D)/(2*f);\n\n// Umwandlungsverhältnis-Diagramm\nD=0:0.01:0.99;\nn=[0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 0.98 0.99];\nfor k=1:length(n)\n    M=-(D./(1-D)).*(1./n(k));\n    plot(D,M)\nend",
+      "challengeDetail": {
+        "title": "Theoretische Werte mit stabilem Simulationsverhalten abgleichen",
+        "situation": "Erste Simulationen erzeugten hohe Anlaufspitzen und langsames Einschwingen, die nicht den theoretischen Erwartungen entsprachen.",
+        "action": "Komponentenwerte und Tastverhältnis iterativ angepasst. Wellenformen für L1, L2, C1, C2 und Transformatorknoten überprüft. Mehrere Simulationen durchgeführt, bis Welligkeit stabile Grenzen erreichte und analytische Vorhersagen übereinstimmten.",
+        "result": "Saubere transiente Antwort mit glattem Einschwingen. Ausgangsstrom und -spannung entsprachen dem theoretischen Trend. Umwandlungsdiagramme bestätigten erwartetes Verhalten über den gesamten Tastverhältnisbereich."
+      },
+      "outcome": "Funktionierendes Cuk-Wandler-Modell mit korrekter Komponentendimensionierung, validiertem Simulationsverhalten, analytischem MATLAB-Code für Designautomatisierung und umfassenden Wellenformergebnissen. Tieferes Verständnis von Wandler-Energieübertragungsmechanismen, Transformatorbetriebsprinzipien und CCM-Stabilitätsanforderungen gewonnen."
+    },
+    "project4": {
+      "title": "Closed-Loop Buck-Wandler-Steuersystem",
+      "shortDescription": "Embedded-C-Steuersystem für Automobil-Buck-Wandler mit PWM-Schaltung, ADC-Rückkopplung und prädiktiver Steuerung mittels Zukunftszustand-Rekursion.",
+      "fullDescription": "Entwicklung eines Closed-Loop-Steuersystems für einen Buck-Wandler mit Embedded C, PWM-Schaltung und ADC-Rückkopplung zur Erzielung stabiler Spannungsregelung unter variablen Lasten. Aufbau des kompletten Testaufbaus mit einem DSP-Mikrocontroller und einer automobilen Leiterplatte, die ursprünglich in einem Pneumatiksystem für Volvo-Lastwagen verwendet wurde. Integration der Steuerlogik, Abstimmung der Reglerreaktion mit Ziegler-Nichols- und K-Faktor-Methoden und Validierung des Systems durch reale Messungen. Implementierung prädiktiver Steuerung mittels Zukunftszustand-Rekursionslogik für verbesserte Systemantwort.",
+      "roleResponsibilities": "Firmware in C entwickelt. ADC-Rückkopplung und PWM-Antrieb integriert. Regelkreisverstärkungen mit Ziegler-Nichols- und K-Faktor-Methoden abgestimmt. Dokumentation für bestehende Module gelesen. Hardware-Setup aufgebaut und debuggt. Ausgangssignale mit Oszilloskop und Analog Discovery 2 gemessen. PCB-Struktur in Fusion 360 kartiert. Stabilität durch wiederholte Tests bewertet.",
+      "figureImage": "project-04-fig1.jpg",
+      "figureCaption": "Abb. 1 - Die pneumatische Automobil-Leiterplatte mit 6 Buck-Wandler-Modulen für Tests und Entwicklung",
+      "technologies": ["Embedded C", "DSP-Mikrocontroller", "PWM-Steuerung", "ADC-Rückkopplung", "IIR-Filterung", "PID-Regelung", "Ziegler-Nichols-Abstimmung", "Oszilloskop", "Analog Discovery 2", "Fusion 360"],
+      "challenges": "Die Stabilität der Regelschleife stellte die Hauptherausforderung dar, da der Ausgang unter Lastvariation oszillierte. PID-Werte wurden ausgiebig getestet, bis die Reaktion sauber einschwang, wobei Ziegler-Nichols- und K-Faktor-Methoden die Reaktionsgeschwindigkeit und Dämpfung erheblich verbesserten. Die ADC-Integration erforderte das Lesen bestehender Moduldokumentation und die Überprüfung der Register-Zuordnung sowie das Hinzufügen von Filterung und Speicher-Updates für stabile Messwerte. Die komplexe Automobil-Leiterplatte enthielt sechs Wandlermodule mit separaten IC-Pfaden, die manuelle Signalverfolgung und Layout-Dokumentation erforderten. Der Hardware-Aufbau erforderte sorgfältigen Anschluss des DSP-MCU an die Platine mit Oszilloskop und Analog Discovery 2 zur Wellenformüberprüfung. Die Filter-Rekursionslogik benötigte Zukunfts-, Zukunfts+1-, Zukunfts+2- und Zukunfts+3-Werte, was tiefes Verständnis der CalcD1F-Rekursion in Filter.h erforderte, wobei Speicher _m1 s[k] und _out y[k] darstellt.",
+      "codeSection": "// Rekursionsformel innerhalb CalcD1F\n// y[k] = b0 * x[k] + s[k]\n// s[k+1] = b1 * x[k] - a1 * y[k]\n\ncoef->_out = (coef->_b0 * val) + coef->_m1;\ncoef->_m1 = (coef->_b1 * val) - (coef->_out * coef->_a1);\n\n// x[k] = Eingangssample\n// y[k] = Ausgang\n// _m1 = Speicher für nächste Iteration",
+      "challengeDetail": {
+        "title": "Rekursionsimplementierung für prädiktive Steuerung",
+        "situation": "In der Endphase musste ich den Closed-Loop-Regler mittels Zukunftszuständen erweitern. Das System erforderte das Lesen und Aktualisieren mehrerer Vorwärtsschritte bei stabiler Zeitsteuerung. Das Verständnis von _m1 als Speicher für den nächsten Zustand und _out als aktuellen Ausgang war wesentlich.",
+        "action": "Rekursionslogik auf Papier rekonstruiert. Theorie mit MATLAB-Simulationen getestet. Signalfluss durch Code verfolgt. Ausgangswellenformen am Oszilloskop erfasst. Zeitsteuerung angepasst, bis Reaktion dem Modellverhalten entsprach.",
+        "result": "Prädiktive Steuerung funktionierte korrekt mit Zukunftszustandswerten. Ausgang schwang ohne Oszillation ein. ADC-Messwerte wurden gefiltert und die Wandlerreaktion blieb über Laständerungen hinweg konsistent."
+      },
+      "outcome": "Eine komplette Closed-Loop-Leistungssteuerimplementierung von der Firmware bis zum abschließenden Test. Erfahrung in eingebetteter Steuerlogik, IIR-Filterung, Leistungselektronik-Messung, Abstimmungsstrategien, Debugging unter Hardware-Einschränkungen und Verständnis der Platinenarchitektur gewonnen. Dieses Projekt stärkte die Fähigkeiten in C-Firmware-Entwicklung, ADC-Rückkopplungshandhabung und realer Wandlersteuerung.",
+      "githubLink": "https://github.com/SlickAF31/DSP-Work"
+    }
+  }
+}
